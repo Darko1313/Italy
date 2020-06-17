@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd44735f1d4b4ff71ba1fa4cbf603fc6",
+    "revision": "49da3932371ea75eba61c6e5abe363f3",
     "url": "/italy/index.html"
   },
   {
-    "revision": "24e4d40ddc5ceaf0618b",
+    "revision": "54cfe51da305fc149366",
     "url": "/italy/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "b1051783ea1e8fb620d4",
-    "url": "/italy/static/css/main.302fc542.chunk.css"
+    "revision": "c067d269e2a88d147192",
+    "url": "/italy/static/css/main.94969038.chunk.css"
   },
   {
-    "revision": "24e4d40ddc5ceaf0618b",
-    "url": "/italy/static/js/2.19b45cb7.chunk.js"
+    "revision": "54cfe51da305fc149366",
+    "url": "/italy/static/js/2.faeb5ab9.chunk.js"
   },
   {
     "revision": "a73511fdd0e79fea52c5f42ad1574633",
-    "url": "/italy/static/js/2.19b45cb7.chunk.js.LICENSE.txt"
+    "url": "/italy/static/js/2.faeb5ab9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1051783ea1e8fb620d4",
-    "url": "/italy/static/js/main.a6c01567.chunk.js"
+    "revision": "c067d269e2a88d147192",
+    "url": "/italy/static/js/main.af004e85.chunk.js"
   },
   {
     "revision": "9cd6e3e9f9ddd9a7c8f9",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/italy/static/media/sicily2.ce125721.jpg"
   },
   {
-    "revision": "ce1257219794ca6529ac1e581678825d",
-    "url": "/italy/static/media/sicily3.ce125721.jpg"
+    "revision": "1b1ecc5c9f43457912524ca6e09774fd",
+    "url": "/italy/static/media/sicily3.1b1ecc5c.jpg"
   },
   {
     "revision": "f070abceba8a37fc29020ad74a7f6bc4",

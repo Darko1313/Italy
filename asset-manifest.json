@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/italy/static/css/main.302fc542.chunk.css",
-    "main.js": "/italy/static/js/main.a6c01567.chunk.js",
-    "main.js.map": "/italy/static/js/main.a6c01567.chunk.js.map",
+    "main.css": "/italy/static/css/main.94969038.chunk.css",
+    "main.js": "/italy/static/js/main.af004e85.chunk.js",
+    "main.js.map": "/italy/static/js/main.af004e85.chunk.js.map",
     "runtime-main.js": "/italy/static/js/runtime-main.f2daab58.js",
     "runtime-main.js.map": "/italy/static/js/runtime-main.f2daab58.js.map",
     "static/css/2.829c9cb5.chunk.css": "/italy/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.19b45cb7.chunk.js": "/italy/static/js/2.19b45cb7.chunk.js",
-    "static/js/2.19b45cb7.chunk.js.map": "/italy/static/js/2.19b45cb7.chunk.js.map",
+    "static/js/2.faeb5ab9.chunk.js": "/italy/static/js/2.faeb5ab9.chunk.js",
+    "static/js/2.faeb5ab9.chunk.js.map": "/italy/static/js/2.faeb5ab9.chunk.js.map",
     "index.html": "/italy/index.html",
-    "precache-manifest.c62574fba0de350c2b235b487befa8ec.js": "/italy/precache-manifest.c62574fba0de350c2b235b487befa8ec.js",
+    "precache-manifest.d6bc7af4afde7a3a8a12f9762d473943.js": "/italy/precache-manifest.d6bc7af4afde7a3a8a12f9762d473943.js",
     "service-worker.js": "/italy/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/italy/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.302fc542.chunk.css.map": "/italy/static/css/main.302fc542.chunk.css.map",
-    "static/js/2.19b45cb7.chunk.js.LICENSE.txt": "/italy/static/js/2.19b45cb7.chunk.js.LICENSE.txt",
+    "static/css/main.94969038.chunk.css.map": "/italy/static/css/main.94969038.chunk.css.map",
+    "static/js/2.faeb5ab9.chunk.js.LICENSE.txt": "/italy/static/js/2.faeb5ab9.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/italy/static/media/1.6f886ced.jpg",
     "static/media/2.jpg": "/italy/static/media/2.65369148.jpg",
     "static/media/3.jpg": "/italy/static/media/3.745f9d65.jpg",
@@ -34,7 +34,7 @@
     "static/media/sicily0.jpg": "/italy/static/media/sicily0.5769bec7.jpg",
     "static/media/sicily1.jpg": "/italy/static/media/sicily1.8f102390.jpg",
     "static/media/sicily2.jpg": "/italy/static/media/sicily2.ce125721.jpg",
-    "static/media/sicily3.jpg": "/italy/static/media/sicily3.ce125721.jpg",
+    "static/media/sicily3.jpg": "/italy/static/media/sicily3.1b1ecc5c.jpg",
     "static/media/sicily4.jpg": "/italy/static/media/sicily4.f070abce.jpg",
     "static/media/sicily5.jpg": "/italy/static/media/sicily5.b35788cc.jpg",
     "static/media/sicily6.jpg": "/italy/static/media/sicily6.b0a7ab5e.jpg",
@@ -45,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.f2daab58.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.19b45cb7.chunk.js",
-    "static/css/main.302fc542.chunk.css",
-    "static/js/main.a6c01567.chunk.js"
+    "static/js/2.faeb5ab9.chunk.js",
+    "static/css/main.94969038.chunk.css",
+    "static/js/main.af004e85.chunk.js"
   ]
 }
