@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/italy/static/css/main.de234716.chunk.css",
-    "main.js": "/italy/static/js/main.af004e85.chunk.js",
-    "main.js.map": "/italy/static/js/main.af004e85.chunk.js.map",
+    "main.css": "/italy/static/css/main.8f806da7.chunk.css",
+    "main.js": "/italy/static/js/main.c7d25762.chunk.js",
+    "main.js.map": "/italy/static/js/main.c7d25762.chunk.js.map",
     "runtime-main.js": "/italy/static/js/runtime-main.f2daab58.js",
     "runtime-main.js.map": "/italy/static/js/runtime-main.f2daab58.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/italy/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.faeb5ab9.chunk.js": "/italy/static/js/2.faeb5ab9.chunk.js",
-    "static/js/2.faeb5ab9.chunk.js.map": "/italy/static/js/2.faeb5ab9.chunk.js.map",
+    "static/css/2.015ca209.chunk.css": "/italy/static/css/2.015ca209.chunk.css",
+    "static/js/2.ab51197d.chunk.js": "/italy/static/js/2.ab51197d.chunk.js",
+    "static/js/2.ab51197d.chunk.js.map": "/italy/static/js/2.ab51197d.chunk.js.map",
     "index.html": "/italy/index.html",
-    "precache-manifest.9f07c224d41abdaae6bb7cfe1f92736e.js": "/italy/precache-manifest.9f07c224d41abdaae6bb7cfe1f92736e.js",
+    "precache-manifest.06b7ca8fca1768d510a35370ef4de25d.js": "/italy/precache-manifest.06b7ca8fca1768d510a35370ef4de25d.js",
     "service-worker.js": "/italy/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/italy/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.de234716.chunk.css.map": "/italy/static/css/main.de234716.chunk.css.map",
-    "static/js/2.faeb5ab9.chunk.js.LICENSE.txt": "/italy/static/js/2.faeb5ab9.chunk.js.LICENSE.txt",
+    "static/css/2.015ca209.chunk.css.map": "/italy/static/css/2.015ca209.chunk.css.map",
+    "static/css/main.8f806da7.chunk.css.map": "/italy/static/css/main.8f806da7.chunk.css.map",
+    "static/js/2.ab51197d.chunk.js.LICENSE.txt": "/italy/static/js/2.ab51197d.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/italy/static/media/1.6f886ced.jpg",
     "static/media/2.jpg": "/italy/static/media/2.65369148.jpg",
     "static/media/3.jpg": "/italy/static/media/3.745f9d65.jpg",
@@ -44,9 +44,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2daab58.js",
-    "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.faeb5ab9.chunk.js",
-    "static/css/main.de234716.chunk.css",
-    "static/js/main.af004e85.chunk.js"
+    "static/css/2.015ca209.chunk.css",
+    "static/js/2.ab51197d.chunk.js",
+    "static/css/main.8f806da7.chunk.css",
+    "static/js/main.c7d25762.chunk.js"
   ]
 }
